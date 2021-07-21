@@ -38,5 +38,5 @@ so let's type `user=admin` and also `Cookie: user=demo`
  
 ![Image of mahmoudashraf1344](https://github.com/mahmoudashraf1344/BlueInc.md/blob/main/test4.png)
 
-<h2>now check the the **Response** and you'll see the Flag<h2>
+<h2>now check of the Response in Burp and you'll see the Flag<h2>
 <h1>Good Luck all...<h1>
