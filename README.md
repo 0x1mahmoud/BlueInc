@@ -34,7 +34,7 @@ we see there `user=demo` and also `Cookie: user=demo` so let's test by setting "
  
 ![Image of mahmoudashraf1344](https://github.com/mahmoudashraf1344/BlueInc.md/blob/main/test3.png)
  
-so let's type `user=admin` and also `Cookie: user=demo`
+so let's type `user=admin` and also `Cookie: user=admin`
  
 ![Image of mahmoudashraf1344](https://github.com/mahmoudashraf1344/BlueInc.md/blob/main/test4.png)
 
